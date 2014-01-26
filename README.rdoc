@@ -1,28 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example app using ZURB Foundation. 
 
-Things you may want to cover:
+- It is a rails 4 app.
 
-* Ruby version
+- Simple scaffolding has been created for some basic product views.
 
-* System dependencies
+- Other than zurb gemfile, dependencies are standard 'rails new' dependencies.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+- App is based on based on RailsCast #417: http://railscasts.com/episodes/417-foundation
